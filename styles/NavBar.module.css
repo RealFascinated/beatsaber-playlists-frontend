@@ -1,0 +1,12 @@
+.card {
+    border-radius: 0;
+}
+
+.card_text {
+    font-weight: bold;
+    transition: 200ms;
+}
+
+.card_text:hover {
+    color: #5E1DAD;
+}

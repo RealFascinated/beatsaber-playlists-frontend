@@ -1,0 +1,8 @@
+{
+    "urls": {
+        "api": {
+            "development": "http://localhost:3000",
+            "production": "https://api.beatsaberplaylists.net"
+        }
+    }
+}
